@@ -42,7 +42,7 @@ Every new source drops in the channel first, with the files, a description and s
 ### 👉 [TirexSource](https://t.me/TirexSource) 👈
 
 <a href="https://t.me/TirexSource"><img src="https://img.shields.io/badge/Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join"></a>
-<a href="https://t.me/TirexSource"><img src="https://img.shields.io/badge/عضویت_در_کانال-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join"></a>
+<!-- <a href="https://t.me/TirexSource"><img src="https://img.shields.io/badge/عضویت_در_کانال-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join"></a> -->
 
 </div>
 
@@ -88,7 +88,7 @@ The channel is **completely free**; nothing is locked behind a payment. If you'd
 
 <a href="https://coffeebede.com/trexnumber"><img src="https://img.shields.io/badge/💳_Donate_Iranian_Rial-Click_Here-2ea44f?style=for-the-badge" alt="Donate IRR"></a>
 
-<a href="https://coffeebede.com/trexnumber"><img src="https://img.shields.io/badge/💳_دونیت_ریالی-کلیک_کنید-2ea44f?style=for-the-badge" alt="Donate IRR"></a>
+<!-- <a href="https://coffeebede.com/trexnumber"><img src="https://img.shields.io/badge/💳_دونیت_ریالی-کلیک_کنید-2ea44f?style=for-the-badge" alt="Donate IRR"></a> -->
 
 </div>
 
