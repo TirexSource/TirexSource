@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="TirexSource.png" alt="Tirex Source" width="45%" style="border-radius:50%" />
+<!-- <img src="TirexSource.png" alt="Tirex Source" width="45%" style="border-radius:50%" /> -->
 
 # 🦖 Tirex Source
 
